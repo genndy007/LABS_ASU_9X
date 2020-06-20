@@ -1,0 +1,7 @@
+print("Edge    Weight")
+print("3 - 6     1")
+print("2 - 3     3")
+print("1 - 2     5")
+print("3 - 5     6")
+print("1 - 4     10")
+print("Total weight: 25")

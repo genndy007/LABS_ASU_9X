@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db1d019c-3806-448f-abfd-06b8c4837ec4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xtlii1EQ5nTbrUoH1fd4wdk5JA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DS_Lab3" />
+  </component>
+  <component name="RunManager" selected="Python.source">
+    <configuration name="im" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/im.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="source" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.source" />
+        <item itemvalue="Python.im" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db1d019c-3806-448f-abfd-06b8c4837ec4" name="Default Changelist" comment="" />
+      <created>1581873400204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581873400204</updated>
+      <workItem from="1581873406577" duration="5968000" />
+      <workItem from="1581935540809" duration="14393000" />
+      <workItem from="1582372958660" duration="4037000" />
+      <workItem from="1582462253249" duration="1638000" />
+      <workItem from="1582560718767" duration="5570000" />
+      <workItem from="1582612857285" duration="6724000" />
+      <workItem from="1584039908947" duration="616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="316" width="434" height="487" key="FileChooserDialogImpl" timestamp="1584040619687">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="743" y="316" width="434" height="487" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1584040619687" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1582635217699">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1582635217699" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1582635217698">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1582635217698" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1582635217695">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1582635217695" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1582635217698">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1582635217698" />
+    <state x="620" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1582612859797">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="620" y="385" key="com.intellij.ide.util.TipDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1582612859797" />
+    <state x="195" y="143" width="914" height="702" key="dock-window-1" timestamp="1581946107422">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="195" y="143" width="914" height="702" key="dock-window-1/0.31.1920.1049@0.31.1920.1049" timestamp="1581946107422" />
+    <state x="1029" y="218" width="783" height="702" key="dock-window-2" timestamp="1581946360893">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1029" y="218" width="783" height="702" key="dock-window-2/0.31.1920.1049@0.31.1920.1049" timestamp="1581946360893" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DS_Lab2$source.coverage" NAME="source Coverage Results" MODIFIED="1582623766694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DS_Lab2$im.coverage" NAME="im Coverage Results" MODIFIED="1581950552830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
